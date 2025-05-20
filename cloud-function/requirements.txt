@@ -1,0 +1,4 @@
+google-cloud-firestore
+requests
+openai
+python-dotenv
